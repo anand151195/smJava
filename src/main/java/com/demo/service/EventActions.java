@@ -69,6 +69,8 @@ public class EventActions {
 	public String stop(String sessionId, Data data) {
 		System.out.println("============STOPPED===============");
 		System.out.println("============Test1111===============");
+				System.out.println("============ANAND===============");
+
 		
 		return null;
 
